@@ -11,13 +11,13 @@ Bienvenue sur mon portfolio GitHub ! Je suis un Analyste de Données avec 7 ans 
 
 Expérience Professionnelle
 
-Statisticien Économiste | Institut National de la Statistique et de la Démographie (INStaD) - Bénin
-
+Statisticien Économiste 
+Institut National de la Statistique et de la Démographie (INStaD) - Bénin
 Juillet 2019 - Septembre 2023
 
 
-Statisticien Économiste | Direction Générale de l'Économie (DGE) - Bénin
-
+Statisticien Économiste 
+Direction Générale de l'Économie (DGE) - Bénin
 Octobre 2016 - Mars 2019
 
 
