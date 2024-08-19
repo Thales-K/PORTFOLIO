@@ -11,33 +11,23 @@ Bienvenue sur mon portfolio GitHub ! Je suis un Analyste de Données avec 7 ans 
 
 Expérience Professionnelle
 Statisticien Économiste | Institut National de la Statistique et de la Démographie (INStaD) - Bénin
-
 Juillet 2019 - Septembre 2023
 
-    Participation au nettoyage et traitement des données pour l'Enquête Harmonisée sur les Conditions de Vie des Ménages, et contribution à la rédaction des programmes d'analyse avec Stata.
-    Direction des tâches d'estimation et de rédaction de rapports pour un projet pilote sur les flux financiers illicites, représentant l'institut lors de la conférence de clôture du projet.
-    Développement d'une Matrice de Comptabilité Sociale avec Excel.
-    Participation à la préparation des enquêtes, supervision, traitement des données et analyse des données collectées.
-    Représentation de l'institut lors d'ateliers pour les organisations utilisatrices de données.
 
 Statisticien Économiste | Direction Générale de l'Économie (DGE) - Bénin
-
 Octobre 2016 - Mars 2019
 
-    Rédaction de la note de conjoncture mensuelle de l'économie béninoise, supervision des enquêteurs, gestion des bases de données et analyse des données collectées.
-    Création du Tableau de Bord de l'Économie Nationale avec Excel.
-    Contribution au document méthodologique pour la mise en œuvre d'une note de conjoncture dans le secteur informel au Bénin.
-    Élaboration du rapport sur les enquêtes de satisfaction des usagers pour la DGE.
+
 
 Éducation & Certifications
-
+    Microsoft Certified: Power BI Data Analyst Associate (Juillet 2024) 
     Power BI Data Analyst Professional Certificate (Mars 2024 - Mai 2024)
     Microsoft (Coursera) - Cours en ligne
     Diplôme d’Ingénieur Statisticien Économiste (2013 - 2016)
     École Nationale de la Statistique et de l’Analyse Économique (ENSAE), Dakar (Sénégal) - Présentiel
     Diplôme de Technicien Supérieur en Statistique (2009 - 2012)
     École Nationale d’Économie Appliquée et de Management (ENEAM), Cotonou (Bénin) - Présentiel
-    Microsoft Certified: Power BI Data Analyst Associate (Juillet 2024)
+
 
 Projets
 
