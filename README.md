@@ -27,7 +27,6 @@ Expérience Professionnelle
     Microsoft Certified: Power BI Data Analyst Associate (Juillet 2024) 
     
     Power BI Data Analyst Professional Certificate (Mars 2024 - Mai 2024)
-    
     Microsoft (Coursera) - Cours en ligne
     
     Diplôme d’Ingénieur Statisticien Économiste (2013 - 2016)
