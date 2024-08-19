@@ -1,5 +1,6 @@
 # PORTFOLIO
 Bienvenue sur mon portfolio GitHub ! Je suis un Analyste de Données avec 7 ans d'expérience en statistiques, analyse de données et visualisation. Mon expertise réside dans l'extraction d'informations significatives à partir de données pour soutenir les processus de prise de décision et offrir des solutions pertinentes. Je suis passionné par l'apprentissage continu et j'aime travailler sur des projets stimulants qui repoussent les limites de mes compétences.
+
 À propos de moi
 
     Nom : Thalès KIKI
@@ -57,4 +58,4 @@ Je suis toujours ouvert à la connexion avec d'autres professionnels et à discu
     LinkedIn : thalès-kiki
     GitHub : Thales-K
 
-Merci de visiter mon portfolio !
+Merci d'avoir visiter mon portfolio !
