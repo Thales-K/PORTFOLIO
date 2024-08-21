@@ -1,7 +1,7 @@
 # PORTFOLIO
 Bienvenue sur mon portfolio GitHub ! Je suis un Analyste de Données avec 7 ans d'expérience en statistiques, analyse de données et visualisation. Mon expertise réside dans l'extraction d'informations significatives à partir de données pour soutenir les processus de prise de décision et offrir des solutions pertinentes. Je suis passionné par l'apprentissage continu et j'aime travailler sur des projets stimulants qui repoussent les limites de mes compétences.
 
-##À propos de moi
+## À propos de moi
 
     Nom : Thalès KIKI
     Langues : Français (Avancé), Anglais (Intermédiaire)
@@ -36,7 +36,7 @@ Bienvenue sur mon portfolio GitHub ! Je suis un Analyste de Données avec 7 ans 
     École Nationale d’Économie Appliquée et de Management (ENEAM), Cotonou (Bénin) - Présentiel
 
 
-##Projets
+## Projets
 
 Ici, je présente certains des projets d'analyse de données sur lesquels j'ai travaillé. Ces projets mettent en avant mes compétences en extraction, nettoyage, analyse et visualisation de données. N'hésitez pas à explorer les dépôts ci-dessous :
 
@@ -49,7 +49,7 @@ Ici, je présente certains des projets d'analyse de données sur lesquels j'ai t
     [Projet 3 : Titre du Projet](lien vers le dépôt)
         Brève description du projet, outils utilisés, et principaux enseignements.
 
-##Contact
+## Contact
 
 Je suis toujours ouvert à la connexion avec d'autres professionnels et à discuter d'opportunités de collaboration potentielles. N'hésitez pas à me contacter :
 
