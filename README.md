@@ -4,10 +4,17 @@ Bienvenue sur mon portfolio GitHub ! Je suis un Analyste de Données avec 7 ans 
 ## À propos de moi
 
 Nom : Thalès KIKI
+
 Langues : Français (Avancé), Anglais (Intermédiaire)
+
 Langages de programmation : Python (Intermédiaire), SQL (Avancé), DAX (Intermédiaire), M Query (Intermédiaire)
-Compétences en logiciels : Microsoft Excel (Power Query, Power Pivot, Tableaux Croisés Dynamiques), Microsoft Power BI, Stata, SPSS, Suite Microsoft Office (Word, PowerPoint, Outlook)
+
+Compétences en logiciels : Microsoft Excel (Power Query, Power Pivot, Tableaux Croisés Dynamiques), Microsoft Power BI, Stata, SPSS, 
+
+Suite Microsoft Office (Word, PowerPoint, Outlook)
+
 Compétences principales : Visualisation de données, Processus ETL, Modélisation de données, Analyse exploratoire des données, Apprentissage automatique
+
 Qualités : Esprit analytique et synthétique, Communication, Travail en équipe
 
 ## Expérience Professionnelle
