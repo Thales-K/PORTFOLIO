@@ -10,7 +10,7 @@ Bienvenue sur mon portfolio GitHub ! Je suis un Analyste de Données avec 7 ans 
     Compétences principales : Visualisation de données, Processus ETL, Modélisation de données, Analyse exploratoire des données, Apprentissage automatique
     Qualités : Esprit analytique et synthétique, Communication, Travail en équipe
 
-##Expérience Professionnelle
+## Expérience Professionnelle
 
 	Statisticien Économiste 
 	Institut National de la Statistique et de la Démographie (INStaD) - Bénin
@@ -22,7 +22,7 @@ Bienvenue sur mon portfolio GitHub ! Je suis un Analyste de Données avec 7 ans 
 
 
 
-##Éducation & Certifications
+## Éducation & Certifications
     
     Microsoft Certified: Power BI Data Analyst Associate (Juillet 2024) 
     
