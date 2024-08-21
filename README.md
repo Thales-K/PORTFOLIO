@@ -21,16 +21,11 @@ Qualités : Esprit analytique et synthétique, Communication, Travail en équipe
 ## Expérience Professionnelle
 
 Statisticien Économiste 
-
 Institut National de la Statistique et de la Démographie (INStaD) - Bénin
-
 Juillet 2019 - Septembre 2023
 
-
 Statisticien Économiste 
-
 Direction Générale de l'Économie (DGE) - Bénin
-
 Octobre 2016 - Mars 2019
 
 
@@ -39,19 +34,13 @@ Octobre 2016 - Mars 2019
     
 Microsoft Certified: Power BI Data Analyst Associate (Juillet 2024) 
    
-
 Power BI Data Analyst Professional Certificate (Mars 2024 - Mai 2024)
-
 Microsoft (Coursera) - Cours en ligne
 
-
 Diplôme d’Ingénieur Statisticien Économiste (2013 - 2016)
-
 École Nationale de la Statistique et de l’Analyse Économique (ENSAE), Dakar (Sénégal) - Présentiel
     
-
 Diplôme de Technicien Supérieur en Statistique (2009 - 2012)
-
 École Nationale d’Économie Appliquée et de Management (ENEAM), Cotonou (Bénin) - Présentiel
 
 
