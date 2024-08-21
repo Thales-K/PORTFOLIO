@@ -1,5 +1,5 @@
-title: Thalès Kiki
-logo: assets/img/img-pf.jpg
+title: Thalès KIKI
+logo: /assets/img/img-pf.jpg
 description: Analyste de données
 show_downloads: false
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
