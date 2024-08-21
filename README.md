@@ -53,6 +53,7 @@ Ici, je présente certains des projets d'analyse de données sur lesquels j'ai t
 Ce projet utilise les données d'une enquête qui vise à comprendre les préférences, les tendances et les défis auxquels les professionnels des données sont confrontés. Il offre une interface conviviale avec des visualisations interactives pour faciliter l'exploration des données et la prise de décision. Cette base de données est disponible [ici](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/data-professional-survey-breakdown)  
 
 Il est réalisé avec Power bi desktop. Les données ont été nettoyées et transformées avec Power Query grâce au code suivant : 
+
 	let
 	    Source = Excel.Workbook(File.Contents("C:\Users\USER\Desktop\Thales-K\PORTFOLIO\Power BI Project.xlsx"), null, true),
 	    #"Data Professional Survey_Sheet" = Source{[Item="Data Professional Survey",Kind="Sheet"]}[Data],
