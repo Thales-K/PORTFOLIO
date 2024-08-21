@@ -48,10 +48,16 @@ Qualités : Esprit analytique et synthétique, Communication, Travail en équipe
 
 Ici, je présente certains des projets d'analyse de données sur lesquels j'ai travaillé. Ces projets mettent en avant mes compétences en extraction, nettoyage, analyse et visualisation de données. N'hésitez pas à explorer les dépôts ci-dessous :
 
-[Projet 1 : Titre du Projet](lien vers le dépôt)
+[Projet 1 : Enquête sur les Professionnels de la Donnée](lien vers le dépôt)
 
-Brève description du projet, outils utilisés, et principaux enseignements.
+Ce projet utilise les données d'une enquête qui vise à comprendre les préférences, les tendances et les défis auxquels les professionnels des données sont confrontés. Il offre une interface conviviale avec des visualisations interactives pour faciliter l'exploration des données et la prise de décision. Cette base de données est disponible [ici](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/data-professional-survey-breakdown)  
 
+Il est réalisé avec Power bi desktop. Les données ont été nettoyées et transformées avec Power Query.
+Aussi, il s'agit d'une enquête, il faut présenter les caractéristiques de l'échantillon afin d'en évaluer la représentativité.
+
+Principaux enseignements : Dans un p
+[Caractéristiques des enquêtés](assets/img/Caractéristiques des enquêtés.png)
+[Principaux résultats](assets/img/Principaux résultats.png)
 
 [Projet 2 : Titre du Projet](lien vers le dépôt)
 
