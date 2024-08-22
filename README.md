@@ -22,17 +22,16 @@ Qualités : Esprit analytique et synthétique, Communication, Travail en équipe
 
 Ici, je présente certains des projets d'analyse de données sur lesquels j'ai travaillé. Ces projets mettent en avant mes compétences en extraction, nettoyage, analyse et visualisation de données. N'hésitez pas à explorer les dépôts ci-dessous :
 
-[Projet 1 : Enquête sur les Professionnels de la Donnée](https://github.com/Thales-K/PORTFOLIO/blob/main/assets/Rapport/PROJET%20-%20LES%20PROFESSIONNELS%20DE%20LA%20DONNEE.pbix)
+### [Projet 1 : Enquête sur les Professionnels de la Donnée](https://github.com/Thales-K/LES-PROFESSIONNELS-DE-LA-DONNEE)
+
+Ce projet utilise les données d'une enquête qui vise à comprendre les préférences, les tendances et les défis auxquels les professionnels des données sont confrontés. Il offre une interface conviviale avec des visualisations interactives pour faciliter l'exploration des données et la prise de décision. Les outils utilisés sont Power BI Destok et Power Query. Ce projet a permis de mettre en lumière que le salaire, l'équilibre vie privée/vie professionnel et la possibilité de télétravail sont les facteurs qui influence les professionnel de la donnée dans leur choix de carrière. De plus, il montre que le langage Python est langage de programmation préféré de ces professionnels quel que soit leur spécialité.
+
+### [Projet 2 : En cours d'ajout]
 
 
-[Projet 2 : Titre du Projet](lien vers le dépôt)
 
-Brève description du projet, outils utilisés, et principaux enseignements.
+### [Projet 3 : En cours d'ajout](lien vers le dépôt)
 
-
-[Projet 3 : Titre du Projet](lien vers le dépôt)
-
-Brève description du projet, outils utilisés, et principaux enseignements.
 
 
 ## Contact
