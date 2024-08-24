@@ -1,5 +1,14 @@
 title: Thalès KIKI
-logo: assets/img/img-pf.jpg
+logo: {
+  display: inline-block;
+  line-height: 0;
+  max-height: 4rem;
+  @include flexbox;
+  @include align-items(center);
+  img {
+    max-height: 5rem;
+  }
+}
 description: Analyste de données
 show_downloads: false
 theme: jekyll-theme-minimal
