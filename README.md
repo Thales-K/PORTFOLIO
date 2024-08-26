@@ -7,7 +7,7 @@ Nom : Thalès KIKI
 
 Langues : Français (Avancé), Anglais (Intermédiaire)
 
-Langages de programmation : Python (Intermédiaire), SQL (Avancé), DAX (Intermédiaire), M Query (Intermédiaire)
+Langages de programmation : Python (Intermédiaire), SQL (Intermédiaire), DAX (Intermédiaire), M Query (Intermédiaire)
 
 Compétences en logiciels : Microsoft Excel (Power Query, Power Pivot, Tableaux Croisés Dynamiques), Microsoft Power BI, Stata, SPSS, 
 
