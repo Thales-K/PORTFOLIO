@@ -24,7 +24,7 @@ Ici, je présente certains des projets d'analyse de données sur lesquels j'ai t
 
 ### [Projet 1 : Enquête sur les Professionnels de la Donnée](https://github.com/Thales-K/LES-PROFESSIONNELS-DE-LA-DONNEE)
 
-![les_professionnels_de_la_donnée](/assets/img/les_professionnels_de_la_data.png)
+![les_professionnels_de_la_donnée](/assets/img/les%professionnels%de%la%data.png)
 
 Ce projet utilise les données d'une enquête qui vise à comprendre les préférences, les tendances et les défis auxquels les professionnels des données sont confrontés. Il offre une interface conviviale avec des visualisations interactives pour faciliter l'exploration des données et la prise de décision. Les outils utilisés sont Power BI Destok et Power Query. Ce projet a permis de mettre en lumière que le salaire, l'équilibre vie privée/vie professionnel et la possibilité de télétravail sont les facteurs qui influence les professionnel de la donnée dans leur choix de carrière. De plus, il montre que le langage Python est langage de programmation préféré de ces professionnels quel que soit leur spécialité.
 
